@@ -1,0 +1,18 @@
+{
+	"name": "cordova-plugin-ios-permission",
+	"version": "1.1.1",
+	"description": "Experimental plugin to prevent crashes in iOS apps due to missing entries in the plist file.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xpertsoft009/cordova-plugin-ios-permission.git"
+	},
+	"keywords": [
+		"cordova"
+	],
+	"author": "XpertSoft",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/xpertsoft009/cordova-plugin-ios-permission/issues"
+	},
+	"homepage": "https://github.com/xpertsoft009/cordova-plugin-ios-permission#readme"
+}
